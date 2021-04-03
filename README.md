@@ -4,4 +4,4 @@
 
 Pandas Challenge is a homework assignment designed to get me more comfortable with pandas navigation and pushing those results to github.
 
-Heros Of Pymoli is a fictional game that customers are encouraged to purchase items, that will enhance their playing experience.  My assignment was to assit the fictional owners wtih key insights into the games purchasing data.
+Heros Of Pymoli is a fictional game that encourages customers to purchase items, that will enhance their playing experience.  My assignment was to assit the fictional owners wtih developing key insights into the games purchasing data.
